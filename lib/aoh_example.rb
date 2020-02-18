@@ -11,7 +11,14 @@ def assembled_aoh
 end
 
 def literal_aoh
-  new_array = []
+  new_array = [
+    {name:  "Don Gately", occupation: "Live-in Staff"}, 
+  
+  
+  
+  
+  
+  ]
   
   
   
