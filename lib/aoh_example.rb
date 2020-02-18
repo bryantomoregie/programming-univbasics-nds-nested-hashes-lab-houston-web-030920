@@ -6,7 +6,7 @@ PAT_M =  { name:  "Pat Monteseian", occupation: "Staff" }
 KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
-def assembled_aoh(hi, bye)
+def assembled_aoh
   new_array = [hi, bye]
 end
 
