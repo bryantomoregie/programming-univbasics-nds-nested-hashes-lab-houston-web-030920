@@ -12,9 +12,9 @@ end
 
 def literal_aoh
   new_array = [
-    {name:  "Don Gately", occupation: "Live-in Staff"}, 
-  { name:  "Joelle van Dyne", occupation: "Radio Personality" }
-  { name:  "Pat Monteseian", occupation: "Staff" }
+    {:name=>  "Don Gately", occupation: "Live-in Staff"}, 
+  { :name=>  "Joelle van Dyne", occupation: "Radio Personality" },
+  { :name=>  "Pat Monteseian", occupation: "Staff" },
   
   
   
